@@ -1,0 +1,1 @@
+DROM TABLE users;
